@@ -67,3 +67,28 @@ h2, h4 {
   position: relative;
   bottom: -150px;
 }
+#mainContent {
+	margin-top: 50px;
+	padding-top: 100px;
+	width: 600px;
+	height: 300px;
+	border: 5px black solid;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+button {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#questionDiv {
+	display: none;
+}
+
+#answerDiv {
+	display: none;
+}
